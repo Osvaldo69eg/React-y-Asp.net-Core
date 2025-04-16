@@ -1,25 +1,17 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { pelicula } from './peliculas/peliculas.model';
+import PeliculaIndividual from './peliculas/PeliculaIndividual';
 
 function App() {
+  const peliculaPrueba:pelicula={
+    id:1,titulo:"Spiderman lejos de casa",
+    poster:'https://ntsi1415juannavarro.wordpress.com/wp-content/uploads/2015/01/ntsi.jpg'
+  }
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+   <>
+   <PeliculaIndividual pelicula={peliculaPrueba}/>
+   </>
   );
 }
 
