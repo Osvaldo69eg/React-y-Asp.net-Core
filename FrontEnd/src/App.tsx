@@ -1,35 +1,23 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import './App.css';
-import { pelicula } from './peliculas/peliculas.model';
-import PeliculaIndividual from './peliculas/PeliculaIndividual';
-import ListadoPeliculas from './peliculas/ListadoPeliculas';
+import Menu from './utils/Menu';
+import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import IndiceGeneros from './generos/indiceGeneros';
+import LandingPage from './LandingPage';
+
+
 
 function App() {
-  const peliculasEncartelera:pelicula[]=[
-    {
-      id:1,titulo:"Spiderman lejos de casa",
-      poster:"imagenes/FarFromHome.jpg"
-    },
-    {
-      id:2,titulo:"moana",
-      poster:"imagenes/moana.jpg"
-    }
-  ]
-  const peliculasProximosEstrenos:pelicula[]=[
-    {
-      id:3,titulo:"Soul",
-      poster:"imagenes/soul.jpg"
-    }
-  ]
-
   return (
-   <>
-   <h3>Peliculas en cartelera</h3>
-   <ListadoPeliculas peliculas={peliculasEncartelera}/>
-   <h3>Proximos estrenos</h3>
-   <ListadoPeliculas peliculas={peliculasProximosEstrenos}/>
-   </>
-   
+    <BrowserRouter>
+      <Menu />
+      <div className='container'>
+        <Routes>
+          <Route path="/" element={<LandingPage />} />
+          <Route path="/generos" element={<IndiceGeneros />} />
+        </Routes>
+      </div>
+    </BrowserRouter>
   );
 }
 
