@@ -4,6 +4,8 @@ import Menu from './utils/Menu';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import IndiceGeneros from './generos/indiceGeneros';
 import LandingPage from './LandingPage';
+import rutas from './route-config';
+
 
 
 
@@ -13,8 +15,9 @@ function App() {
       <Menu />
       <div className='container'>
         <Routes>
-          <Route path="/" element={<LandingPage />} />
-          <Route path="/generos" element={<IndiceGeneros />} />
+        {rutas.map((ruta, index) => (
+            <Route key={index} path={ruta.path} element={ruta.element} />
+          ))}
         </Routes>
       </div>
     </BrowserRouter>
