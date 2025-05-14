@@ -1,0 +1,90 @@
+[
+  {
+    "ContainingType": "peliculasBackEnd.Controllers.GeneroController",
+    "Method": "Get",
+    "RelativePath": "api/generos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[peliculasBackEnd.Entidades.Genero, peliculasBackEnd, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "peliculasBackEnd.Controllers.GeneroController",
+    "Method": "Post",
+    "RelativePath": "api/generos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genero",
+        "Type": "peliculasBackEnd.Entidades.Genero",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "peliculasBackEnd.Controllers.GeneroController",
+    "Method": "Put",
+    "RelativePath": "api/generos",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "genero",
+        "Type": "peliculasBackEnd.Entidades.Genero",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "peliculasBackEnd.Controllers.GeneroController",
+    "Method": "Delete",
+    "RelativePath": "api/generos",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "peliculasBackEnd.Controllers.GeneroController",
+    "Method": "Get",
+    "RelativePath": "api/generos/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "peliculasBackEnd.Entidades.Genero",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
