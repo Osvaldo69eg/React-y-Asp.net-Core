@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\controllers\\generocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\dtos\\generocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\dtos\\generocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\entidades\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\validaciones\\primeraletramayusculaattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|c:\\users\\osvaldo.esparza\\onedrive - tokaikogyo\\documentos\\curso_reactasp.net\\backend\\peliculasbackend\\peliculasbackend\\dtos\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDD51FE9-312C-40F2-9546-5312D881E648}|peliculasBackEnd\\peliculasBackEnd.csproj|solutionrelative:peliculasbackend\\dtos\\generodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 212,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +54,81 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneroCreacionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\DTOs\\GeneroCreacionDTO.cs",
+              "RelativeDocumentMoniker": "peliculasBackEnd\\DTOs\\GeneroCreacionDTO.cs",
+              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\DTOs\\GeneroCreacionDTO.cs",
+              "RelativeToolTip": "peliculasBackEnd\\DTOs\\GeneroCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:56:58.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "peliculasBackEnd\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\appsettings.Development.json",
-              "RelativeToolTip": "peliculasBackEnd\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-14T16:10:19.76Z",
+              "Title": "Genero.cs",
+              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Entidades\\Genero.cs",
+              "RelativeDocumentMoniker": "peliculasBackEnd\\Entidades\\Genero.cs",
+              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Entidades\\Genero.cs",
+              "RelativeToolTip": "peliculasBackEnd\\Entidades\\Genero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T18:53:25.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "peliculasBackEnd\\Utilidades\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "peliculasBackEnd\\Utilidades\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T17:26:14.372Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "PrimeraLetraMayusculaAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "RelativeDocumentMoniker": "peliculasBackEnd\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "RelativeToolTip": "peliculasBackEnd\\Validaciones\\PrimeraLetraMayusculaAttribute.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "peliculasBackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Program.cs",
+              "RelativeToolTip": "peliculasBackEnd\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T21:07:06.12Z"
+              "WhenOpened": "2025-05-27T16:59:41.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "peliculasBackEnd\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "peliculasBackEnd\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:57:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneroDTO.cs",
+              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\DTOs\\GeneroDTO.cs",
+              "RelativeDocumentMoniker": "peliculasBackEnd\\DTOs\\GeneroDTO.cs",
+              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\DTOs\\GeneroDTO.cs",
+              "RelativeToolTip": "peliculasBackEnd\\DTOs\\GeneroDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T15:39:05.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -77,35 +138,9 @@
               "RelativeDocumentMoniker": "peliculasBackEnd\\Controllers\\GeneroController.cs",
               "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Controllers\\GeneroController.cs",
               "RelativeToolTip": "peliculasBackEnd\\Controllers\\GeneroController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAQwC0AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T16:39:01.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Program.cs",
-              "RelativeDocumentMoniker": "peliculasBackEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Program.cs",
-              "RelativeToolTip": "peliculasBackEnd\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:45:20.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Genero.cs",
-              "DocumentMoniker": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Entidades\\Genero.cs",
-              "RelativeDocumentMoniker": "peliculasBackEnd\\Entidades\\Genero.cs",
-              "ToolTip": "C:\\Users\\osvaldo.esparza\\OneDrive - Tokaikogyo\\Documentos\\Curso_ReactAsp.Net\\BackEnd\\peliculasBackEnd\\peliculasBackEnd\\Entidades\\Genero.cs",
-              "RelativeToolTip": "peliculasBackEnd\\Entidades\\Genero.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T15:16:00.558Z",
               "EditorCaption": ""
             }
           ]

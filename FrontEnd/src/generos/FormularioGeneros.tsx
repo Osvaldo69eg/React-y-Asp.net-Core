@@ -22,7 +22,12 @@ export default function FormularioGeneros({ modelo, onSubmit }: FormularioGenero
                 htmlFor="nombre"
                 field={register('nombre', {
                     required: 'Este campo es requerido',
-                    validate: validarPrimeraLetraMayuscula
+                    maxLength: {
+                        value: 50,
+                        message: 'El nombre no puede tener más de 50 caracteres'
+                        
+                    },
+                    validate:validarPrimeraLetraMayuscula
                 })}
                 error={errors.nombre?.message}
             />
